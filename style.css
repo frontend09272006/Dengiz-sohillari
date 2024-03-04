@@ -1,0 +1,24 @@
+.navbar-link{
+    width: 100%;
+}
+.sohil-img{
+    background-image: url(img/sohil-img.png);
+    width: 100%;
+    min-height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card1-bg{
+    background-color: #41D6C7;
+    width: 100%;
+    min-height: 900px;
+}
+.footer{
+    background-image: url(img/Footer.png);
+    width: 100%;
+    min-height: 850px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
